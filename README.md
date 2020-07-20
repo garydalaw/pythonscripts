@@ -44,6 +44,7 @@ This script (second attempt) uses tkinter to generate an interface to show findi
 **Project 12.py**
 
 This script (first attempt) intends to look into a Yelp result data and find custom features.
+
 **Project 12_ver2.py**
 
 This script (second attempt) intends to look into a Yelp result data and find custom features.
